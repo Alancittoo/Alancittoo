@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>✨ I'm a full-stack software engineer who loves taking on challenging projects, learning new languages and technologies, and working with others. </p>
 
-<p>💼 Formerly was in the USMC but now taking the journey to become a better Software Developer</p>
+<p>💼 Formerly was in the USMC but now currently a Software Developer! </p>
 
 <p>💻 If you don't see me at my computer coding, I'm watching anime or sleeping </p>
   
