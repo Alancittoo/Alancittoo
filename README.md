@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m @Alancittoo
+<!-- -  👋 Hi, I’m @Alancittoo
 - 👀 I’m interested in ... Learning any type of code I can and be well rounded in coding!
 - 🌱 I’m currently learning ... JavaScript and Python 
 - 📫 How to reach me ... echeniquealan@yahoo.com
