@@ -3,7 +3,7 @@
 
 ## Welcome to my Github!
 <div >
-<p>🤓 My name is Alan, but most people call me Cito ! </p>
+<p>🤓 My name is Alan, but most people call me Cito! </p>
 
 <p>✨ I'm a full-stack software engineer who loves taking on challenging projects, learning new languages and technologies, and working with others. </p>
 
